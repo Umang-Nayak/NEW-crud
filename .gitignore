@@ -136,5 +136,7 @@ GitHub.sublime-settings
 !.vscode/extensions.json
 .history
 
-# .gitignore
-/app1/migrations/
+
+# Ignore Django migration files
+**/migrations/*.py
+**/migrations/*.pyc
