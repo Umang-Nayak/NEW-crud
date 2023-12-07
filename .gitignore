@@ -137,4 +137,4 @@ GitHub.sublime-settings
 .history
 
 # .gitignore
-/migrations/
+app1/migrations/
