@@ -137,6 +137,7 @@ GitHub.sublime-settings
 .history
 
 
-# Ignore Django migration files
-**/migrations/*.py
-**/migrations/*.pyc
+
+*.sql
+*.sqlite
+/migrations/
